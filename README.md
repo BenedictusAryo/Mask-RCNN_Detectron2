@@ -1,2 +1,2 @@
-# Mask-RCNN_Detectron2
+# Mask-RCNN Detectron2
 Instance Segmentation using Mask-RCNN from Detectron2
