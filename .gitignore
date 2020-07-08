@@ -8,7 +8,8 @@ __pycache__/
 
 # Dataset
 *.zip
-/baloon_dataset
+/balloon
+/__MACOSX
 
 # Distribution / packaging
 .Python
