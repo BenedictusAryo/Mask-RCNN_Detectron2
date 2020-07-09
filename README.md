@@ -1,6 +1,8 @@
 # Mask R-CNN using Detectron2
 Instance Segmentation using Mask-RCNN from Detectron2
 
+<img src="https://github.com/BenedictusAryo/Mask-RCNN_Detectron2/raw/master/assets/mrcnn_result.png" width="400">
+
 In this sharing session we will talk about:
 ---
 * Computer Vision Problems
