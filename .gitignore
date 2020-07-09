@@ -10,6 +10,7 @@ __pycache__/
 *.zip
 /balloon
 /__MACOSX
+/data
 
 # Distribution / packaging
 .Python
